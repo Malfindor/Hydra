@@ -1,1 +1,0 @@
-RedHand is an automation/assistance tool for practice network setup. Based on entered preset, RedHand will automatically make changes to remote machines to reflect the preset environment selected
